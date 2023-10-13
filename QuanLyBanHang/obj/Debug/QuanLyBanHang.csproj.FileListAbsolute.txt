@@ -1,0 +1,15 @@
+D:\Winform\LapTrinhWin\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\Winform\LapTrinhWin\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\Winform\LapTrinhWin\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\Winform\LapTrinhWin\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+D:\Winform\LapTrinhWin\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\Winform\LapTrinhWin\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\Winform\LapTrinhWin\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\Winform\LapTrinhWin\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\Winform\LapTrinhWin\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\Winform\LapTrinhWin\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.dll
+D:\Winform\LapTrinhWin\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.SqlServer.dll
+D:\Winform\LapTrinhWin\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.xml
+D:\Winform\LapTrinhWin\QuanLyBanHang\QuanLyBanHang\bin\Debug\EntityFramework.SqlServer.xml
+D:\Winform\LapTrinhWin\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.QuanLyBanHang.resources
+D:\Winform\LapTrinhWin\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CopyComplete
